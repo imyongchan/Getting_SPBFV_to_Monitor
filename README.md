@@ -35,21 +35,17 @@
 
 <table>
   <tr>
-    <td align="center" width="50%">
-      <b>측정기</b></b><br>
-      ![KakaoTalk_20260218_165135567_02](https://github.com/user-attachments/assets/d91ccfae-f1c8-48a5-90f4-f988b95a1de8)
-
+    <td align="center">
+      <b>착용 전면</b><br>
+      <img src="https://github.com/user-attachments/assets/d91ccfae-f1c8-48a5-90f4-f988b95a1de8" width="320"/>
     </td>
-    <td align="center" width="50%">
-      <b>📈 실시간 심박수 공간말초혈류도 측정 화면</b><br>
-      ![KakaoTalk_20260218_165135567_01](https://github.com/user-attachments/assets/e4424c5c-092c-451f-93a1-37a1baf51f5e)
-
+    <td align="center">
+      <b>착용 후면</b><br>
+      <img src="https://github.com/user-attachments/assets/e4424c5c-092c-451f-93a1-37a1baf51f5e" width="320"/>
     </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <b>📋 심박수&공간말초혈류속도에따른 분석지</b><br>
-      ![KakaoTalk_20260218_165135567](https://github.com/user-attachments/assets/4c0e9794-6f6c-40d3-a5b5-7f7f2f28d60f)
+    <td align="center">
+      <b>내부</b><br>
+      <img src="https://github.com/user-attachments/assets/4c0e9794-6f6c-40d3-a5b5-7f7f2f28d60f" width="320"/>
     </td>
   </tr>
 </table>
